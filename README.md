@@ -2,7 +2,7 @@
 
 [Johnson and Rice (2008)](https://scholarlycommons.law.wlu.edu/wlulr/vol65/iss1/4/) define a branching index to measure how much a US State restricts competition across banks.
 
-The index is known to economists mostly thanks to [Rice and Strahan (2010)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01555.x), who use the index to study the effect of credit competition on small-firm performance.
+The index is known to economists mostly thanks to [Rice and Strahan (2010)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01555.x), who use it to study the effect of credit competition on small-firm performance.
 
 The purpose of this repository is to collect the index from Rice and Strahan (2010) and provide it as a machine-and-human-readable HTML document together with a small Python program that translates it into a machine-readable CSV dataset.
 
